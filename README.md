@@ -19,7 +19,7 @@ Este projeto foi desenvolvido com foco na criação de um sistema de gerenciamen
 
 ## Repositório
 
-[Link do Repositório](https://github.com/CarlosLucena1/Projeto_SQL_Music)
+https://github.com/CarlosLucena1/Projeto_SQL_Music
 
 ---
 
