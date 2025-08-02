@@ -54,4 +54,4 @@ O projeto foi desenvolvido, para fins de teste, em dois SGBDs diferentes: **SQLi
 
 ### Ferramentas de Diagramas
 
-O diagrama de banco de dados foi criado utilizando a ferramenta [draw.io](https://app.diagrams.net/).
+O diagrama de banco de dados foi criado utilizando a ferramenta (https://app.diagrams.net/ dbschema do MySQL).
